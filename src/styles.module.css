@@ -1,0 +1,15 @@
+.layout {
+  min-height: 100vh;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 15px 20px;
+}
+
+.spinner {
+  padding-top: 45vh;
+  padding-left: 50vw;
+}
